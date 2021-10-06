@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/muhamad-risman/">
   <img align="left" alt="Muhamads's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,7 +9,7 @@
 
 Hi, I'm [Muhamad Risman](https://github.com/realrisman), a passionate self-taught full stack web developer and a freelance software engineer from Indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/realrisman/realrisman/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/realrisman/realrisman/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:real.risman@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
