@@ -6,13 +6,12 @@
 ![](https://visitor-badge.deta.dev/badge?page_id=realrisman.realrisman)
 
 <br />
-
+<p align="justify">
 Hi, I'm [Muhamad Risman](https://github.com/realrisman), a passionate self-taught full stack web developer and a freelance software engineer from Indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-  <img align="right" alt="GIF" src="https://github.com/realrisman/realrisman/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:real.risman@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
+</p>
 
 **languages and tools:**  
 
@@ -30,4 +29,8 @@ Hi, I'm [Muhamad Risman](https://github.com/realrisman), a passionate self-taugh
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=realrisman&show_icons=true&theme=gotham" alt="realrisman" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realrisman&show_icons=true&theme=gotham" alt="realrisman" />
+</p>
+  
+
