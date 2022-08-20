@@ -32,5 +32,8 @@ Hi, I'm [Muhamad Risman](https://github.com/realrisman), a passionate self-taugh
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realrisman&show_icons=true&theme=gotham" alt="realrisman" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 
