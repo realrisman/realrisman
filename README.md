@@ -1,15 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/muhamad-risman/">
-  <img align="left" alt="Muhamads's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.deta.dev/badge?page_id=realrisman.realrisman)
 
 <br />
 <p align="justify">
-Hi, I'm [Muhamad Risman](https://github.com/realrisman), a passionate self-taught full stack web developer and a freelance software engineer from Indonesia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Muhamad Risman, a passionate self-taught full-stack web developer and a freelance software engineer from Indonesia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 💼 any freelance work? do reach, [email](mailto:real.risman@gmail.com) :)
+- 💼 any freelance work? do reach, [my email](mailto:real.risman@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 </p>
 
