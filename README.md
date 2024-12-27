@@ -24,11 +24,20 @@ Hi, I'm Muhamad Risman, a passionate self-taught full-stack web developer and a 
 
 📈 My Github Stats
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/realrisman"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realrisman&show_icons=true&theme=gotham" alt="realrisman" />
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  
   
 
